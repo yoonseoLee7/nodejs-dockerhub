@@ -27,4 +27,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: leeyoonseo/nodejs-github-action:${{ env.CURRENT_TIME }}
+        tags: liyoon/nodejs-github-action:${{ env.CURRENT_TIME }}
